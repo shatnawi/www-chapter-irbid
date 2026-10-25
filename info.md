@@ -1,7 +1,6 @@
-### Irbid Information
-* Provide Group Information
+### Chapter Information
+* Irbid, Jordan
+* Founded by Ahmed S. Shatnawi
 
 ### Social Links
 * [Meetup](#)
-
-
